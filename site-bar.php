@@ -6,7 +6,7 @@
 
       <div class="site-bar-menu">
          <ul>
-              <li><a href=""><i class="fa fa-eye"></i><span>View Web</span></a></li>
+              <li><a href=""> <i class="fa fa-eye"></i><span>View Web</span></a></li>
 
               <li><a href=""><i class="fa fa-plus-square"></i><span>Posts</span><b id="posts-bar" class="fa fa-angle-right"></b></a></li>
 
